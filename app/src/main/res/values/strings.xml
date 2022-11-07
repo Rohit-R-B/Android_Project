@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fantasy Cricket Application</string>
+    <string name="new_team">New Team</string>
+    <string name="open_team">Open Team</string>
+    <string name="delete_team">Delete Team</string>
+</resources>
